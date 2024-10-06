@@ -78,6 +78,6 @@ sets][cb::systemset], [states][cb::state].
 Sometimes you don't want Bevy to run your system for you. In that case,
 don't add it to a schedule.
 
-If you are a writing a system that you want to call yourself whenever
+If you are writing a system that you want to call yourself whenever
 you want (such as on a button press), you can do that using [one-shot
 systems][cb::oneshot].
